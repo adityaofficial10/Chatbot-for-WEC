@@ -1,10 +1,4 @@
-## NITK WEB-REC
-
-# ADITYA R RUDRA 
-# Second Year
-# Dept. of Computer Science and Engineering
-
-# Task ID: Web_Club_Chat_Bot
+#  Web_Club_Chat_Bot
 
 # Introduction:
 This folder consists of the fulfilment code of my chatbot and the related json package file.
@@ -17,7 +11,7 @@ This is a simple chatbot which responds to user's general queries about the Web 
 It has been developed using DialogFlow and Google Cloud.Although a lot of effort has been made to widen the scope of the chatbot, but still there is scope for improvement.
 It can fetch realtime data from spreadsheets depending on user's queries.The spreadsheets were converted to a RESTful APi and were then linked using Axios.
 
-# Technologies used:DialogFlow, Axios, Google Cloud
+# Technologies used: DialogFlow, Axios, Google Cloud
 
 ## References:
 
@@ -28,10 +22,6 @@ It can fetch realtime data from spreadsheets depending on user's queries.The spr
 # Experience:
 I am stil working to add new features and widen the scope of the chatbot. Your feedback will be a great help in improving the chatbot.
 Overall it was a great learning experience for me as I got to learn a new technology DialogFlow.
-Thanks to the mentors Adarsh Naidu and Madhu Mithanara for the great guidance...
-
-
-Thanks...
 
 # Note:
 
